@@ -99,7 +99,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "kubectl-context-manager"
+name = "kcm"
 version = "0.1.0"
 dependencies = [
  "inquire",
